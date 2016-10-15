@@ -1,0 +1,3 @@
+[submodule "alexa-trivia-app"]
+	path = alexa-trivia-app
+	url = git@github.com:mfay/alexa-trivia-app.git
