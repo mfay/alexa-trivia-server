@@ -1,0 +1,26 @@
+{
+  "name": "trivia-server",
+  "version": "1.0.0",
+  "description": "Simple trivia server for an Alexa skill.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfay/alexa-trivia-server.git"
+  },
+  "keywords": [
+    "Alexa",
+    "nodejs"
+  ],
+  "author": "Mark Fay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfay/alexa-trivia-server/issues"
+  },
+  "homepage": "https://github.com/mfay/alexa-trivia-server#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  }
+}
